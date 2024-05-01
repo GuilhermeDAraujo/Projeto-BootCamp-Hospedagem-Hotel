@@ -1,0 +1,14 @@
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\bin\Debug\net8.0\ProjetoHospedagemHotel.exe
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\bin\Debug\net8.0\ProjetoHospedagemHotel.deps.json
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\bin\Debug\net8.0\ProjetoHospedagemHotel.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\bin\Debug\net8.0\ProjetoHospedagemHotel.dll
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\bin\Debug\net8.0\ProjetoHospedagemHotel.pdb
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.dll
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\refint\ProjetoHospedagemHotel.dll
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.pdb
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ProjetoHospedagemHotel.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\Guilherme\VS Code Projetos\ProjetoHospedagemHotel\obj\Debug\net8.0\ref\ProjetoHospedagemHotel.dll
